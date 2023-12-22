@@ -1,0 +1,7 @@
+pip libraries used in project:
+tabulate
+sys
+csv
+validators
+re
+time
